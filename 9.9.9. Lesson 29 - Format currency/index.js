@@ -15,4 +15,6 @@ let myNum = 123456.789;
 myNum = myNum.toLocaleString("en-US", {style: })
 
 
+
+
 console.log(myNum);

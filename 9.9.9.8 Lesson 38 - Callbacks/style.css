@@ -1,0 +1,8 @@
+label{
+    display: block;
+    width: 200px;
+    border: 1px solid;
+    text-align: center;
+    font-size: 40px;
+    background-color: hsl(240, 100%, 91%);
+}
